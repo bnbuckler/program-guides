@@ -1,7 +1,7 @@
 ---
 layout: page
-title: How do I use PIV/CAC on a Mac?
-permalink: /2_mac/
+title: Performance Reporting
+permalink: /perf-rept/
 ---
 #### Playbook Overview
 

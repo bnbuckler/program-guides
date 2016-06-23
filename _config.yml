@@ -1,11 +1,11 @@
 # Site settings
-title: PIV Enablement Guides
-name: PIV Enablement Guides
+title: Program Management Playbook
+name: Program Management Playbook
 email: icam@gsa.gov
 author:
     name: FICAM
-description: PIV Guidance
-baseurl: '/piv-guides'
+description: Program Management Guidance
+baseurl: '/program-guides'
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  lachellel
@@ -21,9 +21,9 @@ ficam_playbooks_url: /ficam-guides/
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
-- name: piv-guides
-  description: FICAM Playbook - PIV Guidance
-  url: https://github.com/gsa/piv-guides
+- name: program-guides
+  description: FICAM Playbook - Program Management Guidance
+  url: https://github.com/gsa/program-guides
 
 # Build settings
 markdown: kramdown
@@ -41,91 +41,51 @@ exclude:
 - vendor
 
 navigation:
-- text: Introduction
+- text: Navigation
   url: index.html
   internal: true
   coll: false
-- text: Elements of a PIV Card
-  url: elements
+- text: Program Organization and Management
+  url: prog-mgmt/index/
+  internal: true
+  coll: true
+  collname: prog-mgmt
+- text: Acquisition Planning
+  url: acq-plan
   internal: true
   coll: false
-#- text: PIV Infrastructure
-#  url: boxes
-#  internal: true
-#  coll: false
-#- text: PIV Authentication Mechanisms
-#  url: authen
-#  internal: true
-#  coll: false
-#- text: How do I enable Microsoft AD for Admin access?
-#  url: 4_adadmin
-#  internal: true
-#  coll: false
-#- text: How do I enable a domain to assert assurance in AD?
-#  url: 5_domainassert
-#  internal: true
-#  coll: false
-#- text: How do I enable Firefox to allow the use of PIV/CAC?
-#  url: 6_firefox
-#  internal: true
-#  coll: false
-#- text: How do I enable Internet Explorer to allow the use of PIV/CAC?
-#  url: 7_ie
-#  internal: true
-#  coll: false
-#- text: How do I enable Chrome to allow the use of PIV/CAC?
-#  url: 8_chrome
-#  internal: true
-#  coll: false
-#- text: How do I validate trust stores on a Windows platform?
-#  url: 9_trustwindows
-#  internal: true
-#  coll: false
-#- text: How do I validate trust stores on a Mac platform?
-#  url: 10_trustmac
-#  internal: true
-#  coll: false
-#- text: How do I enable PIV/CAC for SSH to a Unix-like system?
-#  url: 11_ssh
-#  internal: true
-#  coll: false
-#- text: How do I enable Remote Desktop Protocol (RDP) to allow PIV/CAC?
-#  url: 12_rdp
-#  internal: true
-#  coll: false
-#- text: How do I use PIV/CAC with a mainframe?
-#  url: 13_mainframe
-#  internal: true
-#  coll: false
-#- text: How do I enable a website to use PIV/CAC?
-#  url: 14_website
-#  internal: true
-#  coll: false
-- text: Developer Guides
-  url: devconfig/index/
+- text: Performance Reporting
+  url: perf-rept
+  internal: true
+  coll: false
+- text: Incorporating ICAM Into Existing Agency Processes
+  url: incorp/index/
   internal: true
   coll: true
-  collname: devconfig
-- text: User Guides
-  url: userconfig/index/
+  collname: incorp
+- text: Privacy Considerations
+  url: privacy/index/
   internal: true
   coll: true
-  collname: userconfig
+  collname: privacy
 - text: Contribute
   url: contribute
   internal: true
   coll: false
 
 collections:
-  userconfig:
-    label: "User Guides"
-    permalink: /userconfig/:path/
+  prog-mgmt: 
+    label: "Program Organization and Management"
+    permalink: /prog-mgmt/:path/
     output: true
-  devconfig:
-    label: "Developer Guides"
-    permalink: /devconfig/:path/
+  incorp:
+    label: "Incorporating ICAM into Existing Agency Processes"
+    permalink: /incorp/:path/
     output: true
-
+  privacy:
+    label: "Privacy Considerations"
+    permalink: /privacy/:path/
+    output: true
 
 include:
 - _stylesheets

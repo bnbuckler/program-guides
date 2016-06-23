@@ -1,15 +1,15 @@
 ---
 layout: default
 title: Introduction
-collection: devconfig
+collection: privacy
 ---
-{% capture index %}{% include dev_index.md %}{% endcapture %}
+{% capture index %}{% include privacy_index.md %}{% endcapture %}
 {{ index | markdownify }}
 
-<!--<div id="home">
-  <h2>Guides</h2>
+<!--- <div id="home">
+  <h2>Posts</h2>
   <ul class="pages">
-    {% for page in site.devconfig %}
+    {% for page in site.privacy %}
       <li>
         <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
       </li>
