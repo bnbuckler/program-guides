@@ -13,9 +13,7 @@ $(function() {
   });
 });
 </script>
-
-
-### Overview
+-------------------------------------------
 
 In addition to setting up an ICAM governance structure, an agency needs to establish a mechanism for supporting execution and operations of the projects and workstreams within the ICAM program. This section examines a Program Management Office (PMO) as one possible alternative for providing ICAM program support; however, an agency should evaluate potential program management alternatives and select the option that best fits its needs.
 
@@ -35,10 +33,10 @@ The PMO will typically be responsible for the supporting functions:
 
 To further promote the successful execution of the ICAM program initiatives, an ICAM PMO may decide to assign separate workstreams to individuals who already have an active and steadfast involvement in a particular area outside of the program. A workstream task lead manages the day-to-day activities of his/her individual workstream and provides the ICAM PMO with critical and timely information related to the planning, development, deployment, and activities of their initiatives.
 
-### Workstreams
+<center> Workstreams </center>
 <div id="accordion" markdown="1">
 
-### Administrative Workstreams
+Administrative Workstreams
 <div markdown="1">
 
 **Outreach & Communications**
@@ -104,7 +102,7 @@ The figure below represents a sample ICAM PMO structure. An agency should design
 
 ![alt text](../PMO.jpg/ "PMO")
 
-### Program Communications
+<center> ### Program Communications </center>
 
 In order to communicate consistently and effectively, a Communications Plan should be developed early in the program life cycle for programs such as ICAM. A Communications Plan will outline the objectives, goals, themes and approach of the overall program.
 
@@ -126,7 +124,7 @@ When creating a Communications Plan, agencies should analyze the stakeholders th
 |------------------------------------|
 | Process or system changes that will impact users need to be communicated early and often in order to promote adoption. As many agencies learned when introducing the new PIV credential, employees and contractors needed to be made aware of the new requirements, processes, and their benefits before enrollments started to increase. |
 
-### Program Risk Management
+<center> ### Program Risk Management </center>
 
 Risk management involves the identification of policies, procedures, and practices, as well as the analysis, assessment, control, and avoidance of threats to the continuing efficiency, profitability and success of program operations. proactive risk management is paramount within an agency‘s ICAM program. This requires the involvement of the entire program management team and active maintenance of issues. Other typical characteristics of a successful risk management program include:
 
