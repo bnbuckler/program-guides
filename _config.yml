@@ -41,7 +41,7 @@ exclude:
 - vendor
 
 navigation:
-- text: Navigation
+- text: Home
   url: index.html
   internal: true
   coll: false
