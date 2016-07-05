@@ -100,7 +100,7 @@ Additionally, an ICAM PMO acts as a single, centralized point of contact for the
 
 The figure below represents a sample ICAM PMO structure. An agency should design its ICAM PMO structure in a way that fosters communication, coordinates efforts, and appropriately aligns with the agency‘s overall organizational structure.
 
-![alt text](../prog-mgt/PMO.jpg/ "PMO")
+![alt text](../img/PMO.png/ "PMO")
 
 <center> ### Program Communications </center>
 
