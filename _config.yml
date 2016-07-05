@@ -13,7 +13,7 @@ highlighter: rouge
 branch: master
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
-logourl: /piv-guides/img/logo.png
+logourl: /program-guides/img/logo.png
 logoalt: Federal Identity Credential and Access Management
 
 ficam_playbooks_url: /ficam-guides/
