@@ -14,8 +14,7 @@ $(function() {
 });
 </script>
 
-
-### Overview
+-----------------------------------------------
 
 In addition to setting up an ICAM governance structure, an agency needs to establish a mechanism for supporting execution and operations of the projects and workstreams within the ICAM program. This section examines a Program Management Office (PMO) as one possible alternative for providing ICAM program support; however, an agency should evaluate potential program management alternatives and select the option that best fits its needs.
 
@@ -35,7 +34,7 @@ The PMO will typically be responsible for the supporting functions:
 
 To further promote the successful execution of the ICAM program initiatives, an ICAM PMO may decide to assign separate workstreams to individuals who already have an active and steadfast involvement in a particular area outside of the program. A workstream task lead manages the day-to-day activities of his/her individual workstream and provides the ICAM PMO with critical and timely information related to the planning, development, deployment, and activities of their initiatives.
 
-### Workstreams
+<center> ### Workstreams </center>
 <div id="accordion" markdown="1">
 
 ### Administrative Workstreams
