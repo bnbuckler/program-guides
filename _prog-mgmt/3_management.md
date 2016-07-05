@@ -33,7 +33,7 @@ The PMO will typically be responsible for the supporting functions:
 
 To further promote the successful execution of the ICAM program initiatives, an ICAM PMO may decide to assign separate workstreams to individuals who already have an active and steadfast involvement in a particular area outside of the program. A workstream task lead manages the day-to-day activities of his/her individual workstream and provides the ICAM PMO with critical and timely information related to the planning, development, deployment, and activities of their initiatives.
 
-<center> Workstreams </center>
+### Workstreams
 <div id="accordion" markdown="1">
 
 Administrative Workstreams
