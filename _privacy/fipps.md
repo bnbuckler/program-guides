@@ -13,8 +13,8 @@ $(function() {
   });
 });
 </script>
+------------------------------------------------------------------
 
-### Overview
 Since ICAM programs involve the collectiong, storing, sharing, and maintenance of Personally Identifiable Information (PII), federal agencies must implement solutions that actively support privacy protections and the widely-recognized FIPPs. Under the Privacy Act, which is based on FIPPs, agencies are required to have certain processes and procedures governing their use of PII in oplace. Agencies should first assess those processes and procedures and determine whether the implementation of an ICAM program constitutes a new use of PII that requires adjustment of existing processes and procedures.
 
 The following list provides a description of each of the FIPPs and discusses practical implementation considerations for applying them within an ICAM program.
@@ -26,12 +26,13 @@ The following list provides a description of each of the FIPPs and discusses pra
 <div markdown="1">
 ### Description
 
-Agencies should involve the individual in the process of using PII and, to the extent practicable, seek individual consent for the collection, use, dissemination, and maintenance of PII. Organizations should also provide mechanisms for appropriate access, correction, and redress regarding use of PII
+Agencies should involve the individual in the process of using PII. To the extent practicable, agencies should seek individual consent for the collection, use, dissemination, and maintenance of PII. Organizations should also provide mechanisms for appropriate access, correction, and redress regarding use of PII.
 
 ### ICAM Implenetation Considerations
 
-Agencies that currently interact with the public in a face-to-face context and/or engage in paper/telephone transactions must recognize that there will continue to be individuals who will not feel comfortable adopting technological processes. They should continue to offer physical alternatives for processes that are not inherently technology-based.
-Agencies should also provide redress mechanisms in accordance with the Privacy Act that allow individuals to report and correct information that is inaccurate, lost, or compromised and damages resulting from incorrect authentication or unauthorized access.
+Agencies that currently interact with the public in a face-to-face context and/or engage in paper/telephone transactions must recognize that there will continue to be people who will not feel comfortable adopting technological processes. They should continue to offer physical alternatives for processes that are not inherently technology-based.
+
+Agencies should also provide redress mechanisms in accordance with the Privacy Act that allow people to report and correct information that is inaccurate, lost, or compromised and damages resulting from incorrect authentication or unauthorized access.
 Redress mechanisms help enhance confidence in the program and promote individual participation.
 
 
@@ -45,7 +46,7 @@ Agencies should be transparent with respect to the information they collect and 
 
 ### ICAM Implenetation Considerations
 
-A foundational principle in federal privacy law is that an individual has the right to know what information the government collects and retains about him and, to a great extent, the right to control how that information is being used. When building ICAM programs, agencies should, first and foremost, consider this principle and ensure the following prior to each occurrence of information collection and/or transmission:
+A foundational principle in federal privacy law is that people have the right to know what information the government collects and retains about them and, to a great extent, the right to control how that information is being used. When building ICAM programs, agencies should consider this principle and ensure the following prior to each occurrence of information collection and/or transmission:
 
 *  The user is clearly informed what information elements will be collected
 *  The user understands who will receive the information
@@ -111,7 +112,7 @@ Agencies should identify and implement means to ensure that PII is accurate, rel
 <div markdown="1">
 ### Description
 
-Agencies should be accountable for complying with these principles, providing training to all employees and contractors who use PII, and auditing the actual use of PII to demonstrate compliance with these principles and all applicable privacy protection requirements.
+Agencies should be accountable for complying with these principles, providing training to all employees and contractors who use PII. Agencies are also responsible for auditing the actual use of PII to demonstrate compliance with these principles and all applicable privacy protection requirements.
 
 ### ICAM Implementation Considerations
 
