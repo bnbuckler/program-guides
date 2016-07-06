@@ -1,4 +1,5 @@
 # Incorporating ICAM into Existing Agency Processes
+-------------------------------------------------------------
 
 In addition to planning specific to an ICAM program, there are numerous otehr systems and processes within an agency that are impacted by the implementation of the ICAM segment architecture. The information and guidance presented in this section is intended to assist agencies in providing answers to several common questions related to incorporating ICAM into existing agency processes, including:
 
