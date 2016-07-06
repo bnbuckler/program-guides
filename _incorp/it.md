@@ -13,30 +13,36 @@ $(function() {
   });
 });
 </script>
+--------------------------------------------------
 
+Agencies are required to perform a risk assessment on a system to determine the extent of potential threats associated with it. Risk assessments assist agencies in determining the proper security mechanisms for information systems based on their level of risk. 
 
-### Overview
+According to NIST SP 800-30, Risk management is the process that allows IT managers to balance the costs of protective measures and achieve gains in mission capability by protecting the information systems and data that support their organization‘s mission.
 
-Agencies are required to perform a risk assessment on a system to determine the extent of potential threats associated with it. Risk assessments assist agencies in determining the proper security mechanisms for information systems commensurate with their level of risk. 
+ICAM solutions are capable of supporting innovative approaches for IT risk management. ICAM implementations also offer the ability to support required information system security controls using common services for the entire organization, significantly streamlining the accreditation process. The following subsections discuss, in greater detail, the ways in which ICAM systems impact and are impacted by IT security and risk management processes.
 
-According to NIST SP 800-30,82 ―Risk management is the process that allows IT managers to balance the operational and economic costs of protective measures and achieve gains in mission capability by protecting the information systems and data that support their organization‘s mission.
-
-ICAM solutions are capable of supporting innovative approaches for IT risk management, ICAM implementations also offer the ability to support required information system security controls using common services for the entire organization, significantly streamlining the accreditation process. The following subsections discuss, in greater detail, the ways in which ICAM systems impact and are impacted by IT security and risk management processes.
+<br>
 
 | <center> ROI </center> |
 |------------------------|
 |Implementing proactive security controls, such as those offered by enterprise ICAM services, can save an agency money through risk avoidance. The average organizational cost of a data breach in 2010 was $7.2 million, an average of $214 per compromised account. Proactive measures cost organizations significantly less, with the average cost for detection and escalation being $13 per record and $51 during ex-post response. |
 
-### Risk Management Framework for Information Systems
+<br>
+
+### <center> Risk Management Framework for Information Systems </center>
 
 Information systems implemented as part of an agency's ICAM program must meet all relevant Federal Information Security Management Act (FISMA) requirements, including application of the IT Risk Management Framework (RMF) defined in NIST SP-800-37. The RMF is a security life cycle approach designed to help agencies build information security capabilities into their information systems, better monitor the real-time security status of those systems, and provide relevant information to agency leadership to enable risk-based decisions associated with their operation.
 
 The RMF includes 6 steps, which an agency must apply to its ICAM systems in order to select, implement, asses, and authorize the appropriate system security controls and adequately monitor the effectiveness of those controls to support responsibility and accountability in the overall security of the system.
 
+<br>
+
 | <center> FAQ </center> |
 |------------------------|
 | **What is the difference between the Certification and Accreditation (C&A) process and the Risk Management Framework (RMF)?**   
 The six-step RMF fundamentally transformed the previous C&A process to allow an organization to track the security state of an information system on an ongoing basis and maintain the security authorization for the system over time. The C&A process was not an on-going, multi-step approach like the RMF life cycle process. This life cycle gives agencies the flexibility to alter, enhance, or reassess the security controls employed in their information systems continuously and easily. |
+
+<br>
 
 The 6 steps in the RMF cycle are summarized in the following table. The RMF framework allows agencies to move from and between steps as needed and allocate resources to each step as they deem appropriate. However, equal empphasis should be placed on each step.
 
