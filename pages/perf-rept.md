@@ -3,13 +3,16 @@ layout: page_collection
 title: Performance Reporting
 permalink: /perf-rept/
 ---
-
+---------------------------------------------------
 Assigning performance measurements to an agency‘s ICAM program provides decision makers and stakeholders with a useful tool to monitor progress, determine program effectiveness, and identify areas that need more funding or process improvement.
 
+<br>
 
 | <center> Implementation Tip </center> |
 |---------------------------------------|
-| It is important to make leadership and management feel ownership and accountability for the success of their agency’s ICAM program. One way to accomplish this is to tie any outcomes and accomplishments of the ICAM program specifically to the responsible individual’s yearly performance plan.                  |
+| It is important to make leadership and management feel ownership and accountability for the success of their agency’s ICAM program. One way to accomplish this is to tie any outcomes and accomplishments of the ICAM program specifically to the responsible individual’s yearly performance plan. |
+
+<br>
 
 Performance reporting for ICAM programs has traditionally been focused on external reporting requirements (e.g., OMB HSPD-12 implementation status reports). In addition to mandatory reporting requirements, agencies should determine ways to leverage performance reporting to improve alignment with the ICAM segment architecture and drive progress on ICAM programs internal to the agency. 
 
