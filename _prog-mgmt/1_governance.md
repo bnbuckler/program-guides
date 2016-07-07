@@ -19,6 +19,8 @@ In order to ensure that ICAM programs at the agency level are compliant, each ag
 
 Establishing a formal governance structure within a federal agency refers to both the creation and assignment of a specific group or entity to provide oversight and management, and development and enforcement of agency-specific policies, processes, and performance measures. The governance needs to be structured in a way that facilitates coordination between the Department and bureau/component level and promotes stakeholder buy-in. Program Governance involves identifying individuals, such as an Executive Sponsor, to champion the ICAM program and establishing coordinated governance groups at the Department and bureau/component levels, such as an ICAM Executive Steering Committee (ESC).
 
+<br>
+
 ### Executive Steering Committee
 The ESC is chartered by the agency‘s executive leadership to govern and align the ICAM program with its agency‘s mission. Typically, the ESC is comprised of departmental heads, bureau/component leadership, business owners, and application owners. The ESC‘s charter should specify the group‘s authority to enforce changes, when necessary, to align ICAM technology, policy and execution with the agency‘s overall mission.
 
@@ -37,9 +39,11 @@ The role and responsibilities of each agency‘s ESC are typically governed by i
 *  Provide program status information to oversight organizations, such as the Office of Management and Budget (OMB), Office of Inspector General (OIG), and Government Accountability Office (GAO), upon request
 *  Establish collaboration to provide guidance, identity common agency challenges, identify best practices, and share solutions
 
+<br>
 
 ### Bureau/Component Governance
 Some agencies are made up of subgroups, typically called bureaus or components, which operate in a decentralized manner. For agencies with this dynamic, it may be beneficial to create a governance structure at the bureau/component level by way of an interdisciplinary team. This team should be authorized and recognized by department-level leadership to enhance communication and promote cohesion among the various subgroups within an agency. 
 
 The mission of the bureau/component interdisciplinary team is to provide ICAM-related recommendations to the department‘s ESC and help drive the success of the ICAM program. These teams are typically comprised of working-level roles and employ a bottom up approach for managing implementation. An interdisciplinary team at the bureau/component level plays an important risk mitigation role by providing insight into theimplementation effort from a functional point of view. This information helps the ESC understand the impact certain decisions may have on program executors and ultimately promote buy-in across various stakeholders.
+
 
