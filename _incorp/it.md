@@ -29,7 +29,7 @@ ICAM solutions are capable of supporting innovative approaches for IT risk manag
 
 <br>
 
-### <center> Risk Management Framework for Information Systems </center>
+### Risk Management Framework for Information Systems
 
 Information systems implemented as part of an agency's ICAM program must meet all relevant Federal Information Security Management Act (FISMA) requirements, including application of the IT Risk Management Framework (RMF) defined in NIST SP-800-37. The RMF is a security life cycle approach designed to help agencies build information security capabilities into their information systems, better monitor the real-time security status of those systems, and provide relevant information to agency leadership to enable risk-based decisions associated with their operation.
 
@@ -45,6 +45,8 @@ The six-step RMF fundamentally transformed the previous C&A process to allow an 
 <br>
 
 The 6 steps in the RMF cycle are summarized in the following table. The RMF framework allows agencies to move from and between steps as needed and allocate resources to each step as they deem appropriate. However, equal empphasis should be placed on each step.
+
+<br>
 
 | <center> Step </center> | <center> Step Description </center> | <center> Objectives </center> |
 |--------------------------------------------------------------------------|
