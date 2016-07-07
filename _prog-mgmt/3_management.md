@@ -35,7 +35,7 @@ To further promote the successful execution of the ICAM program initiatives, an 
 
 <br>
 
-### <center> Workstreams </center>
+### Workstreams
 <div id="accordion" markdown="1">
 
 ### Administrative Workstreams
@@ -84,6 +84,8 @@ Responsible for ICAM processes and systems related to logical access control, in
 </div>
 </div>
 
+<br>
+
 PMOs generally follow standardized project management policies, processes, and methods. Within ICAM, a PMO provides opportunities to share lessons learned both within an agency and across agencies. It may serve as an advisor to other agency offices or programs impacted by the ICAM program (see Section 6.2) on addressing ICAM as appropriate within other agency-wide capabilities. 
 
 Additionally, an ICAM PMO acts as a single, centralized point of contact for the agency‘s ICAM program. Finally, the PMO is the primary authority for performing acquisition planning tasks and making procurement decisions. As a result, an ICAM PMO can offer an agency the following benefits:
@@ -106,7 +108,7 @@ The figure below represents a sample ICAM PMO structure. An agency should design
 
 <br>
 
-### <center> Program Communications </center>
+### Program Communications
 
 In order to communicate consistently and effectively, a Communications Plan should be developed early in the program life cycle for programs such as ICAM. A Communications Plan will outline the objectives, goals, themes and approach of the overall program.
 
@@ -130,7 +132,7 @@ When creating a Communications Plan, agencies should analyze the stakeholders th
 
 <br>
 
-### <center> Program Risk Management </center>
+### Program Risk Management
 
 Risk management involves the identification of policies, procedures, and practices, as well as the analysis, assessment, control, and avoidance of threats to the continuing efficiency, profitability and success of program operations. proactive risk management is paramount within an agency‘s ICAM program. This requires the involvement of the entire program management team and active maintenance of issues. Other typical characteristics of a successful risk management program include:
 
@@ -149,14 +151,13 @@ The following table summarizes some of the common risks faced within an agency I
 
 | <center> Risk Description </center> | <center> Mitigation Plan </center> |
 |--------------------------------------------------------------------------|
-| If agency plans and budgets do not include ICAM activities, adequate funding may not be available for modernization efforts, the agency will not be able to meet target state requirements and deadlines for the ICAM segment architecture | • Develop consolidated ICAM business case and funding request to secure funding beginning in FY12 <br/><br/> • Communicate funding needs to the agency OCFO and explore existing funding sources within the agency <br/><br/>• Determine if internal funding can be routed to ICAM efforts, for example, working capital |
+| If agency plans and budgets do not include ICAM activities, adequate funding may not be available for modernization efforts, the agency will not be able to meet target state requirements and deadlines for the FICAM architecture | • Develop consolidated ICAM business case and funding request to secure funding beginning in FY12 <br/><br/> • Communicate funding needs to the agency OCFO and explore existing funding sources within the agency <br/><br/>• Determine if internal funding can be routed to ICAM efforts, for example, working capital |
 | If the agency’s ICAM transition plan does not gain support and adoption at the Assistant/Deputy Secretary level, including required compliance, the agency will not receive coordination and support from the necessary stakeholders in order to move forward with implementation | • Support institution of governance structure for ICAM (to include the ESC) <br/><br/>• Develop and implement Communications Plan |
-| If the agency doesn’t meet the scheduled transition activity milestone dates, funding for ICAM and other agency systems may be impacted | Based on agency ICAM segment architecture analysis, provide realistic completion targets for ICAM activities to OMB in the ICAM Transition Plan template |
+| If the agency doesn’t meet the scheduled transition activity milestone dates, funding for ICAM and other agency systems may be impacted | Based on agency FICAM architecture analysis, provide realistic completion targets for ICAM activities to OMB in the ICAM Transition Plan template |
 | If the bureaus/components fail to adopt enterprise ICAM services in a timely manner, overall agency ICAM implementation and compliance will be delayed | Dedicate ICAM program management resources and program funding to gain stakeholder buy-in and support bureau/component-level implementation requirements and efforts |
 | If the agency is unable to staff dedicated resources with the necessary technical knowledge, the agency will be unable to successfully execute technical implementation and the program schedule will lag | • Leverage cross-agency ICAM expertise via working groups and outreach in order to supplement staff knowledge <br/><br/>• Incorporate staff augmentation in the ICAM acquisition plan in order to ensure necessary skill sets |
 | If the ICAM effort is unable to gain acceptance by the user population, the agency will not be able to meet target state requirements and deadlines | Dedicate additional ICAM program management resources and program funding to increase the communication effort and promote awareness. |
 | If the ICAM solution vendor(s) goes out of business, the agency may experience program delays or incur additional costs to migrate to new solutions | • Include supply chain risk management in ICAM program Acquisition Plan and identify alternative solution component sources. Where possible, use approved vendors and products from established acquisition vehicles <br/><br/>• Include activities for compiled software escrow and source code escrow |
-
 
 
 
