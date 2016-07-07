@@ -23,6 +23,8 @@ This section identifies key ICAM stakeholders, both at the government-wide level
 
 An early step in developing the FICAM architecture was identifying the stakeholders related to ICAM. The following tables provide an overview of the stakeholders who were identified as part of this process. The tables list many of the federal stakeholders for ICAM, but is not intended to be an exhaustive list of non-federal stakeholders.
 
+<br>
+
 <div id="accordion" markdown="1">
 
 ### Federal Governance Bodies
