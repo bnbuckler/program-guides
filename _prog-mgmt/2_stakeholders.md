@@ -132,6 +132,8 @@ ICAM programs are large, complex initiatives that often span across several agen
 
 The following tables provide an overview of many agency-level stakeholders within an agency- level ICAM program.  The table is not intended to be an exhaustive list of agency-level stakeholders for all federal organizations, but rather to highlight the most common groups that are involved in or impacted by ICAM implementations.
 
+<br>
+
 | <center> Stakeholder Name </center> | <center> Role </center> |
 |---------------------------------------------------------------|
 | **Agency Partners and Affiliates** | • Includes contractors working on behalf of the Federal Government and affiliates that do business with or consume the services provided by federal agencies <br/> <br/>• Portions of this population utilize the PIV card to access agency facilities and information systems, while others utilize non-PIV cards and require only occasional access to agency assets. |
@@ -163,7 +165,6 @@ Within an agency‘s ICAM program, for example, each bureau/component might asse
 In addition to working groups, an agency may choose to stand up smaller focus groups or tiger teams for the purpose of resolving specific program issues or providing direct support for implementation. This technique helps improve stakeholder buy-in associated with enterprise approaches and services by promoting better understanding and a sense of inclusion and ownership in the program. It also improves consistency across an agency‘s ICAM implementation.
 
 For example, an agency‘s ICAM program management staff could leverage small focus groups with expertise in the agency‘s enterprise ICAM program and tools to consult with and support implementation efforts at the bureau/component level.
-
 
 
 
