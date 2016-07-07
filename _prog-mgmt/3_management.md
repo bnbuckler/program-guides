@@ -19,7 +19,9 @@ In addition to setting up an ICAM governance structure, an agency needs to estab
 
 An ICAM PMO serves a complementary role to the ESC and while establishing both an ESC and a PMO may not be strictly necessary, larger organizations may see the need to separate governance and operational responsibility within their ICAM program. A PMO helps ensure that the individual projects and investments that comprise the ICAM program run smoothly and achieve the expected results within the defined budgetary and schedule constraints.
 
-The PMO will typically be responsible for the supporting functions:
+The PMO will typically be responsible for the following functions:
+<br>
+
 * Planning and coordinating implementation efforts across various ICAM stakeholders and component programs (e.g., credentialing, physical access control, logical access control, personnel security, etc.)
 * Maintaining an enterprise ICAM perspective to ensure alignment of all component programs with organizational objectives
 * Serving as a centralized point of contact for ICAM questions, issues, and concerns
