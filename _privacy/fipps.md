@@ -15,7 +15,7 @@ $(function() {
 </script>
 ------------------------------------------------------------------
 
-Since ICAM programs involve the collectiong, storing, sharing, and maintenance of Personally Identifiable Information (PII), federal agencies must implement solutions that actively support privacy protections and the widely-recognized FIPPs. Under the Privacy Act, which is based on FIPPs, agencies are required to have certain processes and procedures governing their use of PII in oplace. Agencies should first assess those processes and procedures and determine whether the implementation of an ICAM program constitutes a new use of PII that requires adjustment of existing processes and procedures.
+Since ICAM programs involve the collecting, storing, sharing, and maintenance of Personally Identifiable Information (PII), federal agencies must implement solutions that actively support privacy protections and the widely-recognized FIPPs. Under the Privacy Act, which is based on FIPPs, agencies are required to have certain processes and procedures governing their use of PII in oplace. Agencies should first assess those processes and procedures and determine whether the implementation of an ICAM program constitutes a new use of PII that requires adjustment of existing processes and procedures.
 
 The following list provides a description of each of the FIPPs and discusses practical implementation considerations for applying them within an ICAM program.
 
