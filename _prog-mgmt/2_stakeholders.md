@@ -19,11 +19,10 @@ A stakeholder is an individual or organization that is either actively involved 
 
 This section identifies key ICAM stakeholders, both at the government-wide level (associated with the Federal ICAM Initiative) and the agency level (associated with an agency‘s ICAM program and supporting projects). It then introduces approaches for managing and engaging stakeholders to support ICAM program success.
 
-### <center> Government-Wide Stakeholders </center>
+### Government-Wide Stakeholders
 
 An early step in developing the FICAM architecture was identifying the stakeholders related to ICAM. The following tables provide an overview of the stakeholders who were identified as part of this process. The tables list many of the federal stakeholders for ICAM, but is not intended to be an exhaustive list of non-federal stakeholders.
 
-### Government-Wide Stakeholder Groups
 <div id="accordion" markdown="1">
 
 ### Federal Governance Bodies
@@ -125,7 +124,7 @@ An early step in developing the FICAM architecture was identifying the stakehold
 
 <br>
 
-### <center> Agency-Level Stakeholders </center>
+### Agency-Level Stakeholders
 
 ICAM programs are large, complex initiatives that often span across several agency bureaus/components; as such, it is critical to define the program objectives, boundaries, and stakeholders early in the planning process.
 
@@ -149,7 +148,7 @@ The following tables provide an overview of many agency-level stakeholders withi
 
 <br>
 
-### <center> Stakeholder Management Strategies </center>
+### Stakeholder Management Strategies
 
 Stakeholder management, as it relates to ICAM, involves coordination, collaboration, and communication with numerous entities within the agency. Each of these entities often has a distinct mission requirement and performs a specific set of duties in support of the overall agency mission. These stakeholders will have different viewpoints that may conflict with one another or the overarching ICAM program objectives. Furthermore, decisions made in one program area may impact another. 
 
