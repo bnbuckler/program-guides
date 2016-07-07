@@ -24,6 +24,7 @@ Traditionally, agencies have submitted separate Exhibit 300 investment requests 
 In addition to updating the agency's approach to its ICAM investments, agencies should also work to incorporate ICAM requirements into its CPIC and investment request processes. This will require identifying key criteria for an investment to be considered aligned with FICAM, incorporating that criteria into CPIC processes and guidance, and communicating any changes to the relevant stakeholders and CPIC process participants.
 
 Furhtermore, collaboration between all relevant stakeholders during each phase of the CPIC process is critical to ensure that the overlapping elements of different ICAM activities are addressed. The following table highlights several of the key ICAM considerations relevant to each phase of the standard CPIC process.
+<br>
 
 | CPIC Phase| <center> Phase Objectives </center> | <center> ICAM Considerations <center> |
 |:-----------:|-----------------|---------------------|
@@ -35,6 +36,7 @@ Furhtermore, collaboration between all relevant stakeholders during each phase o
 <br>
 
 Agencies need to include planning for PIV-enablement and alignment with the FICAM architecture when completing capital planning activities and preparing their budget submissions. As part of its adoption into the Federal Enterprise Architecture (FEA), the FICAM architecture was added and assigned a code in the Enterprise Architecture Segment Report (EASR). Agencies must code relevant ICAM costs to the FICAM code and report them as part of their budget submissions via the Exhibit 53. The following table provides a summary of multiple common ICAM-related cost categories, which an agency can leverage to help determine and report their ICAM costs in an organized manner.
+<br>
 
 | Cost Category | <center> Description </center> |
 |:---------------: |-------------|
