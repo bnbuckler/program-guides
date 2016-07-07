@@ -21,7 +21,7 @@ This section identifies key ICAM stakeholders, both at the government-wide level
 
 ### <center> Government-Wide Stakeholders </center>
 
-An early step in developing the ICAM segment architecture was identifying the stakeholders related to the ICAM segment. The following tables provide an overview of the stakeholders who were identified as part of this process. The tables list many of the federal stakeholders for ICAM, but is not intended to be an exhaustive list of non-federal stakeholders.
+An early step in developing the FICAM architecture was identifying the stakeholders related to ICAM. The following tables provide an overview of the stakeholders who were identified as part of this process. The tables list many of the federal stakeholders for ICAM, but is not intended to be an exhaustive list of non-federal stakeholders.
 
 ### Government-Wide Stakeholder Groups
 <div id="accordion" markdown="1">
@@ -159,14 +159,9 @@ Collaboration is usually achieved through the development of expert problem-solv
 
 Within an agency‘s ICAM program, for example, each bureau/component might assemble an interdisciplinary working group responsible for expressing the concerns and interests of its business and system owners and users. These representatives work with the group to incorporate their needs into agency-wide program capabilities and requirements. Working groups are also used as a forum for sharing implementation lessons learned across bureaus/components or individual programs in order to reduce overall ICAM program risk and increase speed and efficiency in implementation.
 
-In addition to working groups, an agency may choose to stand up smaller focus groups or tiger teams for the purpose of resolving specific program issues or providing direct support for implementation. This technique helps improve stakeholder buy-in associated with enterprise approaches and services by promoting better understanding and a sense of inclusion and ownership in the program. It also improves consistency across an agency‘s ICAM implementation, a key goal when implementing the ICAM segment architecture. 
+In addition to working groups, an agency may choose to stand up smaller focus groups or tiger teams for the purpose of resolving specific program issues or providing direct support for implementation. This technique helps improve stakeholder buy-in associated with enterprise approaches and services by promoting better understanding and a sense of inclusion and ownership in the program. It also improves consistency across an agency‘s ICAM implementation.
 
 For example, an agency‘s ICAM program management staff could leverage small focus groups with expertise in the agency‘s enterprise ICAM program and tools to consult with and support implementation efforts at the bureau/component level.
-
-In addition to working groups, an agency may choose to stand up smaller focus groups or tiger teams for the purpose of resolving specific program issues or providing direct support for implementation. This technique helps improve stakeholder buy-in associated with enterprise approaches and services by promoting better understanding and a sense of inclusion and ownership in the program. It also improves consistency across an agency‘s ICAM implementation, a key goal when implementing the ICAM segment architecture. 
-
-For example, an agency‘s ICAM program management staff could leverage small focus groups with expertise in the agency‘s enterprise ICAM program and tools to consult with and support implementation efforts at the bureau/component level.
-
 
 
 
