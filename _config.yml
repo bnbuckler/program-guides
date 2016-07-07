@@ -58,7 +58,7 @@ navigation:
   url: perf-rept
   internal: true
   coll: false
-- text: Incorporating ICAM Into Existing Agency Processes
+- text: Incorporating ICAM into Existing Agency Processes
   url: incorp/index/
   internal: true
   coll: true
