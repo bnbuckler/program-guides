@@ -28,7 +28,7 @@ The following list provides a description of each of the FIPPs and discusses pra
 
 Agencies should involve the individual in the process of using PII. To the extent practicable, agencies should seek individual consent for the collection, use, dissemination, and maintenance of PII. Organizations should also provide mechanisms for appropriate access, correction, and redress regarding use of PII.
 
-### ICAM Implenetation Considerations
+### ICAM Implementation Considerations
 
 Agencies that currently interact with the public in a face-to-face context and/or engage in paper/telephone transactions must recognize that there will continue to be people who will not feel comfortable adopting technological processes. They should continue to offer physical alternatives for processes that are not inherently technology-based.
 
@@ -44,7 +44,7 @@ Redress mechanisms help enhance confidence in the program and promote individual
 
 Agencies should be transparent with respect to the information they collect and share, and provide notice to the individual regarding collection, use, dissemination, and maintenance of PII.
 
-### ICAM Implenetation Considerations
+### ICAM Implementation Considerations
 
 A foundational principle in federal privacy law is that people have the right to know what information the government collects and retains about them and, to a great extent, the right to control how that information is being used. When building ICAM programs, agencies should consider this principle and ensure the following prior to each occurrence of information collection and/or transmission:
 
@@ -61,7 +61,7 @@ A foundational principle in federal privacy law is that people have the right to
 
 Agencies should only collect PII that is directly relevant and necessary to accomplish the specified purpose(s) and only retain PII for as long as is necessary to fulfill the specified purpose(s).
 
-### ICAM Implenetation Considerations
+### ICAM Implementation Considerations
 
 Agencies should only collect the information necessary to carry out ICAM business functions. Wherever possible, agencies should use assertions of an individual’s identity in lieu of identifying data elements. For example, if an application has an age limitation, the program should ask for proof of age rather than the exact birth date. Agencies should also determine how long specific categories of information associated with ICAM processes will be retained and implement procedures for destruction of the information at the end of the retention period.
 
@@ -73,7 +73,7 @@ Agencies should only collect the information necessary to carry out ICAM busines
 
 Agencies should use PII solely for the purpose(s) specified in the notice. Sharing PII should be for a purpose compatible with the purpose for which the PII was collected.
 
-### ICAM Implenetation Considerations
+### ICAM Implementation Considerations
 
 The Privacy Act generally requires that once an individual consents to the collection of his information for a specific, stated purpose, that information can only be used for that purpose. This is particularly important to remember when considering the sharing of information between programs. If the programs have different purposes, such sharing will likely not be permissible without additional consent from the user. Agencies should carefully consider this limitation when crafting their privacy notices for ICAM programs.
 
@@ -85,7 +85,7 @@ The Privacy Act generally requires that once an individual consents to the colle
 
 Agencies should protect PII (in all media) through appropriate security safeguards against risks such as loss, unauthorized access or use, destruction, modification, or unintended or inappropriate disclosure.
 
-### ICAM Implenetation Considerations
+### ICAM Implementation Considerations
 
 Agencies must ensure the security of information at all stages (collection, transmission, storage, destruction) in accordance with various legal and policy requirements (e.g., FISMA and OMB M-07-16).87 Examples of techniques for securing data are: 
 
