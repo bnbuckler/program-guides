@@ -15,7 +15,7 @@ $(function() {
 </script>
 ------------------------------------------------------------------
 
-Since ICAM programs involve the collecting, storing, sharing, and maintenance of Personally Identifiable Information (PII), federal agencies must implement solutions that actively support privacy protections and the widely-recognized FIPPs. Under the Privacy Act, which is based on FIPPs, agencies are required to have certain processes and procedures governing their use of PII in oplace. Agencies should first assess those processes and procedures and determine whether the implementation of an ICAM program constitutes a new use of PII that requires adjustment of existing processes and procedures.
+Since ICAM programs involve the collecting, storing, sharing, and maintenance of Personally Identifiable Information (PII), federal agencies must implement solutions that actively support privacy protections and the widely-recognized FIPPs. Under the Privacy Act, which is based on FIPPs, agencies are required to have certain processes and procedures governing their use of PII in place. Agencies should first assess those processes and procedures and determine whether the implementation of an ICAM program constitutes a new use of PII that requires adjustment of existing processes and procedures.
 
 The following list provides a description of each of the FIPPs and discusses practical implementation considerations for applying them within an ICAM program.
 
@@ -116,7 +116,7 @@ Agencies should be accountable for complying with these principles, providing tr
 
 ### ICAM Implementation Considerations
 
-ICAM implementers should establish accountability measures to ensure that each of the FIPPs is appropriately applied and effectively protect users’ privacy. Such measures can include ICAM program audits and reviews by agency privacy and security officials. Agencies should address accountability for specific requirements, such as the M-07-16 requirement for annual certification of training for employees who handle PII. Clear accountability will promote confidence in ICAM programs.
+ICAM implementers should establish accountability measures to ensure that each of the FIPPs are appropriately applied and effectively protect users’ privacy. Such measures can include ICAM program audits and reviews by agency privacy and security officials. Agencies should address accountability for specific requirements, such as the M-07-16 requirement for annual certification of training for employees who handle PII. Clear accountability will promote confidence in ICAM programs.
 
 </div>
 
