@@ -19,7 +19,7 @@ Agencies are required to perform a risk assessment on a system to determine the 
 
 According to NIST SP 800-30, Risk management is the process that allows IT managers to balance the costs of protective measures and achieve gains in mission capability by protecting the information systems and data that support their organization‘s mission.
 
-ICAM solutions are capable of supporting innovative approaches for IT risk management. ICAM implementations also offer the ability to support required information system security controls using common services for the entire organization, significantly streamlining the accreditation process. The following subsections discuss, in greater detail, the ways in which ICAM systems impact and are impacted by IT security and risk management processes.
+ICAM solutions are capable of supporting innovative approaches for IT risk management. ICAM implementations also offer the ability to support required information system security controls using common services for the entire organization, significantly streamlining the accreditation process. Below, you will find more information about the ways in which ICAM systems impact and are impacted by IT security and risk management processes.
 
 <br>
 
@@ -44,7 +44,7 @@ The six-step RMF fundamentally transformed the previous C&A process to allow an 
 
 <br>
 
-The 6 steps in the RMF cycle are summarized in the following table. The RMF framework allows agencies to move from and between steps as needed and allocate resources to each step as they deem appropriate. However, equal empphasis should be placed on each step.
+The 6 steps in the RMF cycle are summarized in the following table. The RMF framework allows agencies to move from and between steps as needed and allocate resources to each step as they deem appropriate. However, equal emphasis should be placed on each step.
 
 <br>
 
