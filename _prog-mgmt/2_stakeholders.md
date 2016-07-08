@@ -130,7 +130,7 @@ An early step in developing the original FICAM architecture was identifying the 
 
 ICAM programs are large, complex initiatives that often span across several agency bureaus/components; as such, it is critical to define the program objectives, boundaries, and stakeholders early in the planning process.
 
-The following tables provide an overview of many agency-level stakeholders within an agency- level ICAM program.  The table is not intended to be an exhaustive list of agency-level stakeholders for all federal organizations, but rather to highlight the most common groups that are involved in or impacted by ICAM implementations.
+The following tables provide an overview of many agency-level stakeholders within an agency's ICAM program.  The table is not intended to be an exhaustive list of agency-level stakeholders for all federal organizations, but rather to highlight the most common groups that are involved in or impacted by ICAM implementations.
 
 <br>
 
