@@ -33,7 +33,7 @@ The PMO will typically be responsible for the following functions:
 
 |<center> FAQ </center> |
 |-----------------------|
-|**What is the difference between an Executive Steering Committee (ESC) and a Program MAnagement Office (PMO)?** ESCs traditionally provide top-down leadership support and guidance across the programs within an agency and PMOs provide operational support for the day-to-day execution of a specific implementation. |
+|**What is the difference between an Executive Steering Committee (ESC) and a Program Management Office (PMO)?** ESCs traditionally provide top-down leadership support and guidance across the programs within an agency and PMOs provide operational support for the day-to-day execution of a specific implementation. |
 
 <br>
 
@@ -92,7 +92,7 @@ Responsible for ICAM processes and systems related to logical access control, in
 
 <br>
 
-PMOs generally follow standardized project management policies, processes, and methods. Within ICAM, a PMO provides opportunities to share lessons learned both within an agency and across agencies. It may serve as an advisor to other agency offices or programs impacted by the ICAM program (see Section 6.2) on addressing ICAM as appropriate within other agency-wide capabilities. 
+PMOs generally follow standardized project management policies, processes, and methods. Within ICAM, a PMO provides opportunities to share lessons learned both within an agency and across agencies. It may serve as an advisor to other agency offices or programs impacted by the ICAM program on addressing ICAM as appropriate within other agency-wide capabilities. 
 
 Additionally, an ICAM PMO acts as a single, centralized point of contact for the agency‘s ICAM program. Finally, the PMO is the primary authority for performing acquisition planning tasks and making procurement decisions. As a result, an ICAM PMO can offer an agency the following benefits:
 <br>
@@ -105,7 +105,7 @@ Additionally, an ICAM PMO acts as a single, centralized point of contact for the
 * Consistent messaging to both internal and external stakeholders
 * Timely and accurate reporting
 * Minimized confusion
-* Faciliated agency-wide adoption
+* Facilitated agency-wide adoption
 * Minimized risks
 <br>
 
@@ -128,7 +128,7 @@ The following table provides a summary of some of the common communications that
 | <center> Communication Description </center> | <center> Target Audience </center> | <center> Delivery Media </center> |
 |------------------------------------------------------------------------|
 | ICAM program awareness materials explaining key program features and milestones | User population | Brochures, posters, videos |
-| ICAM program website containing resources for stakeholders and users | Various stakholder groups | Website |
+| ICAM program website containing resources for stakeholders and users | Various stakeholder groups | Website |
 | Ad hoc updates for system rollout events and changes | User population | E-mail, newsletter bulletin |
 | Leadership briefing highlighting program objectives and status | Agency Leadership | Slide presentation, meeting |
 | Lessons learned workshops | ICAM implementers | Meeting, teleconference, webinar |
