@@ -1,6 +1,6 @@
 ---
 layout: page_collection
-title: Program Management
+title: Program Activities
 collection: prog-mgmt
 permalink: prog-mgmt/3_management/
 ---
