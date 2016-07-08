@@ -3,7 +3,7 @@ layout: page
 title: Contribute
 permalink: /contribute/
 ---
-This site is for the collaborative development of the Federal Identity, Credential and Access Management (FICAM) Program's ICAM Implementation Planning Playbook.
+This site is for the collaborative development of the Federal Identity, Credential and Access Management (FICAM) Program's Program Management Playbook
 
 #### How to Contribute
 
