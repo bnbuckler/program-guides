@@ -1,7 +1,7 @@
 # Incorporating ICAM into Existing Agency Processes
 -------------------------------------------------------------
 
-In addition to planning specific to an ICAM program, there are numerous otehr systems and processes within an agency that are impacted by the implementation of the FICAM architecture. The information and guidance presented in this section is intended to assist agencies in providing answers to several common questions related to incorporating ICAM into existing agency processes, including:
+In addition to planning specific to an ICAM program, there are numerous other systems and processes within an agency that are impacted by the implementation of the FICAM architecture. The information and guidance presented in this section is intended to assist agencies in providing answers to several common questions related to incorporating ICAM into existing agency processes, including:
 <br>
 
 * What [criteria](../acct-control/) should be used to evaluate ICAM implementations?
