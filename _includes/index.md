@@ -28,6 +28,6 @@ The content in this guide heavily leverages and replaces guidance that existed i
 
 To learn more about other FICAM topics, visit the [Playbook Homepage.](https://bnbuckler.github.io/ficam-guides/)
 
-This playbook will be periodically updated to provide additional information based on your feedback and to include any changes in policy related to government-wide federation.
+This playbook will be periodically updated to provide additional information based on your feedback.
 
 
