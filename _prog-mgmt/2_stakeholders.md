@@ -19,6 +19,8 @@ A stakeholder is an individual or organization that is either actively involved 
 
 This section identifies key ICAM stakeholders, both at the government-wide level (associated with the Federal ICAM Initiative) and the agency level (associated with an agency‘s ICAM program and supporting projects). It then introduces approaches for managing and engaging stakeholders to support ICAM program success.
 
+<br>
+
 ### Government-Wide Stakeholders
 
 An early step in developing the original FICAM architecture was identifying the stakeholders related to ICAM. The following tables provide an overview of the stakeholders who were identified as part of this process. The tables list many of the federal stakeholders for ICAM, but is not intended to be an exhaustive list of non-federal stakeholders.
