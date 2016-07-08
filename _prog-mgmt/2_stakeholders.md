@@ -38,7 +38,7 @@ An early step in developing the original FICAM architecture was identifying the 
 | Identity Credential and Access Management Subcommittee (ICAMSC) | Subcommittee of the ISIMC focused on initiatives related to Identity, Credential, and Access Management |
 | Privacy Committee | • Principal interagency forum to improve agency practices for the protection of privacy <br/><br/>• Interagency coordination group for Senior Agency Officials for Privacy and Chief Privacy Officers in the Federal Government, promoting adherence to the letter and spirit of laws and best practices advancing privacy. |
 | Department of Homeland Security (DHS) | Oversees government-wide and agency-specific cybersecurity implementation and reporting with respect to information systems that fall under FISMA to provide adequate, risk-based, and cost- effective cybersecurity. |
-| General Services Administration (GSA) NOTE: GSA is also an Internal Service Provider | • Managing partner for ICAM initiatives <br/><br/> • Establishes and maintains vehicales and products for HSPD-12 deployment and provides USAccess HSPD-12 Managed Service Offering. |
+| General Services Administration (GSA) NOTE: GSA is also an Internal Service Provider | • Managing partner for ICAM initiatives <br/><br/> • Establishes and maintains vehicles and products for HSPD-12 deployment and provides USAccess HSPD-12 Managed Service Offering. |
 | Office of Personnel Management (OPM) NOTE: OPM is also an Internal Service Provider | • Develops and implements policies and procedures to ensure the effective, efficient, and timely completions of investigations and adjudications relating to determination of suitability and eligibly for logical and physical access <br/><br/>• Owns the automated systems to support investigative processing. <br/><br/>• Serves as the suitability executive agent for the Federal Government. | 
 | Suitability and Security Clearance Performance Accountability Council | • Develops and implements uniform and consistent policies and procedures related to suitability, fitness, and clearance determination activities and processes <br/><br/>• Serves as the most senior policy-making entity for the security and suitability reform effort and provides final determinations for resulting reports |
 | Federal PKI Policy Authority | Established under the CIO Council to enforce digital certificate standards for trusted identity authentication across the federal agencies, as well as between federal agencies and outside bodies (e.g., universities, state and local governments, and commercial entities) |
@@ -50,7 +50,7 @@ An early step in developing the original FICAM architecture was identifying the 
 | Information and Communications Infrastructure Interagency Policy Committee (ICI- IPC) | • The government's primary policy coordination body for secured global information and communications infrastructure <br/><br/>• Focus is to achieve an assured, reliable, secure, and survivable global information and communications infrastructure and related capabilities <br><br/> • Policy forum for cybersecurity matters. |
 | Information Sharing and Access Policy Interagency Policy Committee (IPC) | • Reviews matters related to the improvement of sharing terrorist information <br/><br/> • Advises the President and the Program Manager on the development of Information Sharing Environment (ISE) policies, procedures, guidelines, and standards <br/><br/> • Ensures proper coordination among federal agencies participating in the ISE. |
 | National Security Staff (NSS) | Advises and assists the President on national security and foreign policies |
-|Committe of National Security Systems (CNSS) | Provides a forum for the discussion of policy issues in regards to the protection of national security systems. |
+|Committee of National Security Systems (CNSS) | Provides a forum for the discussion of policy issues in regards to the protection of national security systems. |
 
 </div>
 
@@ -71,7 +71,7 @@ An early step in developing the original FICAM architecture was identifying the 
 | ASIS International | Dedicated to increasing the effectiveness and productivity of security professionals by developing educational programs and materials that address broad security interests |
 | Information Card Foundation (ICF) | Non-profit organization whose mission is to advance simpler, more secure and more open digital identity on the Internet |
 | Kantara Initiative/Liberty Alliance | Working to enable a networked world based on open standards where consumers, citizens, businesses and governments can more easily conduct online transactions while protecting the privacy and security of identity information | 
-| OpenID Foundation | • Formed to help promote, protect, and enable the OpenID tenchnologies and community <br/><br/>• Manages intellectual property and brand marks, as well as fostering vital growth and global participation in the proliferation of OpenID |
+| OpenID Foundation | • Formed to help promote, protect, and enable the OpenID technologies and community <br/><br/>• Manages intellectual property and brand marks, as well as fostering vital growth and global participation in the proliferation of OpenID |
 | Organization for the Advancement of Structured Information Standards (OASIS) | • Not-for-profit consortium that drives the development, convergence and adoption of open standards for the global information society <br/><br/>• OASIS develops security standards (e.g., Security Assertion Markup Language (SAML) and WS-*) in e-business and Web services applications. |
 | Security Industry Association (SIA) | • Non-profit international trade association representing electronic and physical security product manufacturers, distributors, integrators, and service providers <br/><br/>• SIA is an American National Standards Institute (ANSI)-approved Standards Development Organization involved in developing systems integration and equipment performance standards. |
 | Smart Card Alliance | • Not-for-profit, multi-industry association working to stimulate the understanding, adoption, use and widespread application of smart card technology. <br/><br/>• Has authored numerous white papers that provide best practices in the area of credential management |
@@ -96,7 +96,7 @@ An early step in developing the original FICAM architecture was identifying the 
 | <center> Stakeholder Name </center> | <center> Role </center> |
 |---------------------------------------------------------------|
 | Cooperative Groups and Initiatives | Partnerships formed to share information, the ability to authenticate across boundaries, or other ICAM functions such as the Four Bridges Forum and Global Federated Identity and Privilege Management (GFIPM) |
-| Industry Identity Access Management (IAM) Providers | The issuers of electronic credentials to user communities. Also includes Identity and Trust Providers |
+| Industry Identity Access Management (IAM) Providers | The issuers of electronic credentials to user communities and includes Identity and Trust Providers |
 | Industry PKI Service Providers | Providers of PKI services and digital certificates for trusted identity authentication across the Federal Government and with external bodies |
 
 </div>
@@ -119,7 +119,7 @@ An early step in developing the original FICAM architecture was identifying the 
 |---------------------------------------------------------------|
 | American Public and Businesses | • Individuals and businesses that require access to government systems and resources <br/><br/>• Government-wide approach to ICAM must address the varying needs of these communities, focusing particularly on the characteristics of the two user segments: Government-to-Citizen (G2C) and Government-to-Business (G2B) <br/><br/>•The Federal Government provides ICAM services to universities and contractors as business partners |
 | Privacy Community | • People and organizations that support privacy practices and regulation <br/><br/>• Members can be users of government services and advocate for the secure handling of that data |
-| State, Local, Foreign, and Tribal Governments | • Transact businesses on behalf of their government or its constituency <br/><br/>• Partner with the Federal Government in identity management initiatives |
+| State, Local, Foreign, and Tribal Governments | • Transact business on behalf of their government or its constituency <br/><br/>• Partner with the Federal Government in identity management initiatives |
 
 </div>
 </div>
@@ -165,32 +165,6 @@ Within an agency‘s ICAM program, for example, each bureau/component might asse
 In addition to working groups, an agency may choose to stand up smaller focus groups or tiger teams for the purpose of resolving specific program issues or providing direct support for implementation. This technique helps improve stakeholder buy-in associated with enterprise approaches and services by promoting better understanding and a sense of inclusion and ownership in the program. It also improves consistency across an agency‘s ICAM implementation.
 
 For example, an agency‘s ICAM program management staff could leverage small focus groups with expertise in the agency‘s enterprise ICAM program and tools to consult with and support implementation efforts at the bureau/component level.
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
