@@ -1,6 +1,6 @@
 ---
 layout: page_collection
-title: Programmatic Support
+title: Privacy Support
 collection: privacy
 permalink: privacy/support/
 ---
