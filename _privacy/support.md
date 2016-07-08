@@ -1,7 +1,7 @@
 ---
 layout: page_collection
 title: Privacy Support
-collection: privacy
+collection: 2_privacy
 permalink: privacy/support/
 ---
 <script>
