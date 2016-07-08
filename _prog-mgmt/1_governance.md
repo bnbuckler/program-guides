@@ -29,13 +29,13 @@ An ESC provides an agency with the ability to resolve many of the internal issue
 The role and responsibilities of each agency‘s ESC are typically governed by its charter. The following list describes some of the typical responsibilities that might be assigned to an ESC:
 
 *  Provide a means through which changes to the ICAM program or disputes between ICAM and individual program offices are resolved
-*  Provide directionand counsel to the ICAM Program Management Office (PMO), if applicable
+*  Provide direction and counsel to the ICAM Program Management Office (PMO), if applicable
 *  Ensure proper resource allocation to ICAM programs and projects
 *  Review and approve the program business architecture
 *  Provide input for, or participate in, the critical development stages of the ICAM program
 *  Take responsibility for overall stakeholder management to include internal and external stakeholders
 *  Provide strategic guidance for cost, schedule, performance, and technical solutions to ensure program success
-*  Review post-implementation evaluations to ensure that forecasted benefits andd outcomes of the ICAM program are met
+*  Review post-implementation evaluations to ensure that forecasted benefits and outcomes of the ICAM program are met
 *  Provide program status information to oversight organizations, such as the Office of Management and Budget (OMB), Office of Inspector General (OIG), and Government Accountability Office (GAO), upon request
 *  Establish collaboration to provide guidance, identity common agency challenges, identify best practices, and share solutions
 
@@ -44,6 +44,6 @@ The role and responsibilities of each agency‘s ESC are typically governed by i
 ### Bureau/Component Governance
 Some agencies are made up of subgroups, typically called bureaus or components, which operate in a decentralized manner. For agencies with this dynamic, it may be beneficial to create a governance structure at the bureau/component level by way of an interdisciplinary team. This team should be authorized and recognized by department-level leadership to enhance communication and promote cohesion among the various subgroups within an agency. 
 
-The mission of the bureau/component interdisciplinary team is to provide ICAM-related recommendations to the department‘s ESC and help drive the success of the ICAM program. These teams are typically comprised of working-level roles and employ a bottom up approach for managing implementation. An interdisciplinary team at the bureau/component level plays an important risk mitigation role by providing insight into theimplementation effort from a functional point of view. This information helps the ESC understand the impact certain decisions may have on program executors and ultimately promote buy-in across various stakeholders.
+The mission of the bureau/component interdisciplinary team is to provide ICAM-related recommendations to the department‘s ESC and help drive the success of the ICAM program. These teams are typically comprised of working-level roles and employ a bottom up approach for managing implementation. An interdisciplinary team at the bureau/component level plays an important risk mitigation role by providing insight into the implementation effort from a functional point of view. This information helps the ESC understand the impact certain decisions may have on program executors and ultimately promote buy-in across various stakeholders.
 
 
