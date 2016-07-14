@@ -17,6 +17,7 @@ $(function() {
 
 A stakeholder is an individual or organization that is either actively involved in a program or who might be affected by the program's execution or completion. It is critical to identify all stakeholders, and not just those who may be positively affected by the project, in order to understand the needs, responsibilities, and potential impacts of program decisions. 
 
+This section identifies key ICAM stakeholders, both at the [government-wide level](#government) and the [agency level](#agency). It then introduces approaches for [managing and engaging stakeholders](#strategies) to support ICAM program success.
 
 <br>
 
