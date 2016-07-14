@@ -37,58 +37,31 @@ The PMO will typically be responsible for the following functions:
 
 <br>
 
+### Workstreams
+
 To further promote the successful execution of the ICAM program initiatives, an ICAM PMO may decide to assign separate workstreams to individuals who already have an active and steadfast involvement in a particular area outside of the program. A workstream task lead manages the day-to-day activities of his/her individual workstream and provides the ICAM PMO with critical and timely information related to the planning, development, deployment, and activities of their initiatives.
 
 <br>
 
-### Workstreams
-<div id="accordion" markdown="1">
+### *Administrative Workstreams*
 
-### Administrative Workstreams
-<div markdown="1">
+| <center> Workstream </center> | <center> Description </center> |
+|:---------------------------------:|------------------------------------|
+| **Outreach & Communications**| Responsible for devleoping and executing the ICAM program’s Communications Plan, including: <br><br> • Defining communication message types, media, target audience, and timing <br><br> • Communicating ICAM program concepts, activities, and progress to promote support for the implementation of improved ICAM capabilities |
+| **Policy** | Responsible for setting the direction for the ICAM program and developing or finalizing all policies and standard operating procedures related to the ICAM program. |
+| **Budget** | Responsible for developing, managing, monitoring, and reporting on the ICAM program budget. The Budget Workstream will have key interfaces with an agency’s OCFO during the budget development and submission cycles. |
+| **Peformance Management** | Responsible for tracking, managing, and reporting on overall ICAM program performance and metrics. |
 
-**Outreach & Communications**
+<br>
 
-Responsible for devleoping and executing the ICAM program’s Communications Plan, including:
+### *Project Workstreams*
 
-*  Defining communication message types, media, target audience, and timing
-*  Communicating ICAM program concepts, activities, and progress to promote support for the implementation of improved ICAM capabilities
-
-**Policy**
-
-Responsible for setting the direction for the ICAM program and developing or finalizing all policies and standard operating procedures related to the ICAM program.
-
-**Budget**
-
-Responsible for developing, managing, monitoring, and reporting on the ICAM program budget. The Budget Workstream will have key interfaces with an agency’s OCFO during the budget development and submission cycles.
-
-**Peformance Management**
-
-Responsible for tracking, managing, and reporting on overall ICAM program performance and metrics.
-
-</div>
-
-### Project Workstreams
-<div markdown="1">
-
-**Identity Management**
-
-Responsible for ICAM processes and systems related to the management of digital identity data. This includes management and oversight of efforts to modernize the management of digital identities, such as HR modernization, in accordance with FICAM initiatives.
-
-**Credential Management**
-
-Responsible for ICAM processes and systems related to credential lifecycle management activities. Separate workstreams may be identified for various credential types, including agency PIV cards and local facility access cards.
-
-**Physical Access**
-
-Responsible for ICAM processes and systems related to physical access control, including modernization efforts in accordance with the FICAM initiatives.
-
-**Logical Access**
-
-Responsible for ICAM processes and systems related to logical access control, including modernization efforts in accordance with the FICAM initiatives.
-
-</div>
-</div>
+| <center> Workstream </center> | <center> Description </center> |
+|:---------------------------------:|------------------------------------|
+| **Identity Management** | Responsible for ICAM processes and systems related to the management of digital identity data. This includes management and oversight of efforts to modernize the management of digital identities, such as HR modernization, in accordance with FICAM initiatives. |
+| **Credential Management** | Responsible for ICAM processes and systems related to credential lifecycle management activities. Separate workstreams may be identified for various credential types, including agency PIV cards and local facility access cards. |
+| **Physical Access** | Responsible for ICAM processes and systems related to physical access control, including modernization efforts in accordance with the FICAM initiatives. |
+| **Logical Access** | Responsible for ICAM processes and systems related to logical access control, including modernization efforts in accordance with the FICAM initiatives. |
 
 <br>
 

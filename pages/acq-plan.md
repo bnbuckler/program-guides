@@ -6,6 +6,7 @@ permalink: /acq-plan/
 ------------------------------------------------------------------
 When planning for the acquisition of ICAM products and services, an agency must comply with specified regulations and policies, mainly the Federal Acquisition Regulation (FAR). The FAR sets the rules governing the federal acquisition process and includes several clauses particularly relevant to an agency’s ICAM program.
 
+
 M-06-18 provides guidance to federal agencies related to the acquisition of products and services for HSPD-12 implementations. It introduced several amendments to the FAR, which were codified in 48 C.F.R Subpart 4.13, that require an agency to comply with HSPD-12 and FIPS 201 for contractors who require routine logical or physical access and include language to this effect in applicable solicitations and contracts.
 
 <br>

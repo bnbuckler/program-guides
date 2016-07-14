@@ -17,20 +17,26 @@ $(function() {
 
 A stakeholder is an individual or organization that is either actively involved in a program or who might be affected by the program's execution or completion. It is critical to identify all stakeholders, and not just those who may be positively affected by the project, in order to understand the needs, responsibilities, and potential impacts of program decisions. 
 
-This section identifies key ICAM stakeholders, both at the government-wide level (associated with the Federal ICAM Initiative) and the agency level (associated with an agency‘s ICAM program and supporting projects). It then introduces approaches for managing and engaging stakeholders to support ICAM program success.
 
 <br>
 
-### Government-Wide Stakeholders
+### <a name="government"></a>Government-Wide Stakeholders
 
 An early step in developing the original FICAM architecture was identifying the stakeholders related to ICAM. The following tables provide an overview of the stakeholders who were identified as part of this process. The tables list many of the federal stakeholders for ICAM, but is not intended to be an exhaustive list of non-federal stakeholders.
 
+The tables are broken down into 7 types government-wide of stakeholders:
+
+* [Federal Governance Bodies](#governance)
+* [Internal Standards Body](#standards)
+* [External Industry Guidance and Standards Bodies](#guidance)
+* [Internal ICAM Service Providers](#internal)
+* [External Service Providers](#external)
+* [Internal Service Customers](#incustomers)
+* [External Service Customers](#extcustomers)
+
 <br>
 
-<div id="accordion" markdown="1">
-
-### Federal Governance Bodies
-<div markdown="1">
+#### <a name="governance"></a>Federal Governance Bodies 
 
 | <center> Stakeholder Name </center> | <center> Role </center> |
 |--------------------------------------------------------------|
@@ -54,19 +60,17 @@ An early step in developing the original FICAM architecture was identifying the 
 | National Security Staff (NSS) | Advises and assists the President on national security and foreign policies |
 |Committee of National Security Systems (CNSS) | Provides a forum for the discussion of policy issues in regards to the protection of national security systems. |
 
-</div>
+<br>
 
-### Internal Standards Body
-<div markdown="1">
+#### <a name="standards"></a>Internal Standards Body 
 
 | <center> Stakeholder Name </center> | <center> Role </center> |
 |--------------------------------------------------------------|
 | National Institute of Standards and Technology (NIST) | Non-regulatory federal agency within the Department of Commerce that promotes U.S. innovation and industrial competitiveness by advancing measurement science, standards, and technology. |
 
-</div>
+<br>
 
-### External Industry Guidance and Standards Bodies
-<div markdown="1">
+#### <a name="guidance"></a>External Industry Guidance and Standards Bodies
 
 | <center> Stakeholder Name </center> | <center> Role </center> |
 |--------------------------------------------------------------|
@@ -80,20 +84,18 @@ An early step in developing the original FICAM architecture was identifying the 
 | TechAmerica | High-tech industry association active in Federal Information Security policy issues. |
 | Transglobal Secure Collaboration Program (TSCP) | • Government-industry partnership focused on facilitating solutions for Aerospace and Defense issues <br/><br/>• Currently working on identity federation issues in international defense and aerospace programs. |
 
-</div>
+<br>
 
-### Internal ICAM Service Providers
-<div markdown="1">
+#### <a name="internal"></a>Internal ICAM Service Providers 
 
 | <center> Stakeholder Name </center> | <center> Role </center> |
 |--------------------------------------------------------------|
 | Department of the Treasury | A provider of PKI services and digital certificates for trusted identity authentication across the Federal Government and with external bodies |
 | Federal Bureau of Investigation (FBI) | • Protects and defends the United States against terrorist and foreign intelligence threats <br/><br/>• Upholds and enforces the criminal laws of the United States <br/><br/>• Provides leadership and criminal justice services to federal, state, municipal, and international agencies and partners |
 
-</div>
+<br>
 
-### External Service Providers
-<div markdown="1">
+#### <a name="external"></a>External Service Providers
 
 | <center> Stakeholder Name </center> | <center> Role </center> |
 |---------------------------------------------------------------|
@@ -101,10 +103,9 @@ An early step in developing the original FICAM architecture was identifying the 
 | Industry Identity Access Management (IAM) Providers | The issuers of electronic credentials to user communities and includes Identity and Trust Providers |
 | Industry PKI Service Providers | Providers of PKI services and digital certificates for trusted identity authentication across the Federal Government and with external bodies |
 
-</div>
+<br>
 
-### Internal Service Customers
-<div markdown="1">
+#### <a name="incustomers"></a>Internal Service Customers
 
 | <center> Stakeholder Name </center> | <center> Role </center> |
 |---------------------------------------------------------------|
@@ -112,10 +113,9 @@ An early step in developing the original FICAM architecture was identifying the 
 | Federal Agency Application Owners | • Will accept and trust electronic assertions of identity in respective electronic or web-based systems <br/><br/>• Also referred to as relying parties|
 | Federal Employees | • Primary recipient of Personal Identity Verification (PIV) credentials and holders of legacy E-Authentication credentials <br/><br/> • Require access and user privileges for both physical and logical access <br/><br/>• A subset of federal employees also serves as implementers of ICAM initiatives |
 
-</div>
+<br>
 
-### External Service Customers
-<div markdown="1">
+#### <a name="extcustomers"></a>External Service Customers
 
 | <center> Stakeholder Name </center> | <center> Role </center> |
 |---------------------------------------------------------------|
@@ -123,12 +123,9 @@ An early step in developing the original FICAM architecture was identifying the 
 | Privacy Community | • People and organizations that support privacy practices and regulation <br/><br/>• Members can be users of government services and advocate for the secure handling of that data |
 | State, Local, Foreign, and Tribal Governments | • Transact business on behalf of their government or its constituency <br/><br/>• Partner with the Federal Government in identity management initiatives |
 
-</div>
-</div>
-
 <br>
 
-### Agency-Level Stakeholders
+### <a name="agency"></a>Agency-Level Stakeholders
 
 ICAM programs are large, complex initiatives that often span across several agency bureaus/components; as such, it is critical to define the program objectives, boundaries, and stakeholders early in the planning process.
 
@@ -138,23 +135,23 @@ The following tables provide an overview of many agency-level stakeholders withi
 
 | <center> Stakeholder Name </center> | <center> Role </center> |
 |---------------------------------------------------------------|
-| **Agency Partners and Affiliates** | • Includes contractors working on behalf of the Federal Government and affiliates that do business with or consume the services provided by federal agencies <br/> <br/>• Portions of this population utilize the PIV card to access agency facilities and information systems, while others utilize non-PIV cards and require only occasional access to agency assets. |
-| **Business Process/System Owners** | Individuals within an agency responsible for managing a set of activities, programs, and systems that are critical to operations and use ICAM services |
-| **General Counsel** | Provides legal oversight over an agency’s ICAM program, administering security clearance review programs, and ensuring that ICAM programs abide by all applicable laws and regulations through use of an Inspector General (IG) led audit and accountability program. |
-| **Human Resources (HR)** |  Responsible for collecting and managing biographical information on federal employees, which results in creation of a digital identity within the agency’s HR application |
-| **Office of the Chief Financial Officer (OCFO)** | Processes and submits budget requests for ICAM investments and ensures that ICAM requirements and tools are leveraged across the agency’s investments |
-| **Office of the Chief Information Officer (OCIO)** | • Coordinates with the agency's Chief Financial Officer (CFO) to assure that the IT programs and activities are executed in a cost-effective manner <br/><br/>• OCIO is heavily involved in ICAM implementations by ensuring that appropriate security controls are applied, determining how the ICAM solution will impact the security of existing applications, and incorporating ICAM into the agency’s EA |
-| **Office of the Chief Information Security Officer (OCISO)**| • Develops, employs, and publishes security policies, programs, and standards to guard the agency’s personnel, property, facilities, and information <br/><br/>• Oversees projects related to credentials, badges, emergency signaling devices, etc <br/><br/> • Has leadership and authority over security policy and programs within the agency and can coordinate with the Personnel Security and Physical Security divisions |
-| **Personnel Security** | • Coordinates with managers’ HR departments to determine position sensitivity levels for each position occupied within the agency <br/><br/> • Coordinates with OPM to ensure that an appropriate background investigation and/or periodic reinvestigation is conducted for all agency employees and contractors. |
-| **Physical Security** | Manages the security of agency buildings, such as resolving conflicts concerning entry to facilities and verifying that those seeking to gain access to federal buildings are appropriately authorized to do so |
-| **PIV Credentialing Program** | Manages the PIV card issuance process and infrastructure |
-| **Privacy Office** | • Administers policy to govern the use, collection, storage, and dissemination of Personally Identifiable Information (PII) for all agency employees, contractors, and affiliates <br/><br/>• Maintains an agency’s System of Records Notices (SORNs), and supporting Privacy Impact Assessments (PIAs) for all IT investments, including ICAM. |
-| **Solution Providers** | Industry partners and/or system integrators that provide ICAM services to federal agencies |
-| **Unions** | Frequently involved in matters related to ICAM processes that collect personal information or introduce additional requirements for background investigations |
+| Agency Partners and Affiliates | • Includes contractors working on behalf of the Federal Government and affiliates that do business with or consume the services provided by federal agencies <br/> <br/>• Portions of this population utilize the PIV card to access agency facilities and information systems, while others utilize non-PIV cards and require only occasional access to agency assets. |
+| Business Process/System Owners | Individuals within an agency responsible for managing a set of activities, programs, and systems that are critical to operations and use ICAM services |
+| General Counsel | Provides legal oversight over an agency’s ICAM program, administering security clearance review programs, and ensuring that ICAM programs abide by all applicable laws and regulations through use of an Inspector General (IG) led audit and accountability program. |
+| Human Resources (HR) |  Responsible for collecting and managing biographical information on federal employees, which results in creation of a digital identity within the agency’s HR application |
+| Office of the Chief Financial Officer (OCFO) | Processes and submits budget requests for ICAM investments and ensures that ICAM requirements and tools are leveraged across the agency’s investments |
+| Office of the Chief Information Officer (OCIO) | • Coordinates with the agency's Chief Financial Officer (CFO) to assure that the IT programs and activities are executed in a cost-effective manner <br/><br/>• OCIO is heavily involved in ICAM implementations by ensuring that appropriate security controls are applied, determining how the ICAM solution will impact the security of existing applications, and incorporating ICAM into the agency’s EA |
+| Office of the Chief Information Security Officer (OCISO) | • Develops, employs, and publishes security policies, programs, and standards to guard the agency’s personnel, property, facilities, and information <br/><br/>• Oversees projects related to credentials, badges, emergency signaling devices, etc <br/><br/> • Has leadership and authority over security policy and programs within the agency and can coordinate with the Personnel Security and Physical Security divisions |
+| Personnel Security | • Coordinates with managers’ HR departments to determine position sensitivity levels for each position occupied within the agency <br/><br/> • Coordinates with OPM to ensure that an appropriate background investigation and/or periodic reinvestigation is conducted for all agency employees and contractors. |
+| Physical Security | Manages the security of agency buildings, such as resolving conflicts concerning entry to facilities and verifying that those seeking to gain access to federal buildings are appropriately authorized to do so |
+| PIV Credentialing Program | Manages the PIV card issuance process and infrastructure |
+| Privacy Office | • Administers policy to govern the use, collection, storage, and dissemination of Personally Identifiable Information (PII) for all agency employees, contractors, and affiliates <br/><br/>• Maintains an agency’s System of Records Notices (SORNs), and supporting Privacy Impact Assessments (PIAs) for all IT investments, including ICAM. |
+| Solution Providers | Industry partners and/or system integrators that provide ICAM services to federal agencies |
+| Unions | Frequently involved in matters related to ICAM processes that collect personal information or introduce additional requirements for background investigations |
 
 <br>
 
-### Stakeholder Management Strategies
+### <a name="strategies"></a>Stakeholder Management Strategies
 
 Stakeholder management, as it relates to ICAM, involves coordination, collaboration, and communication with numerous entities within the agency. Each of these entities often has a distinct mission requirement and performs a specific set of duties in support of the overall agency mission. These stakeholders will have different viewpoints that may conflict with one another or the overarching ICAM program objectives. Furthermore, decisions made in one program area may impact another. 
 
