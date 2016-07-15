@@ -15,6 +15,8 @@ $(function() {
 </script>
 -------------------------------------------------
 
+TEST TEST TEST
+
 In order to ensure that ICAM programs at the agency level are compliant, each agency should have a formal governance structure, either by leveraging an existing program structure or by establishing new governance as necessary. This structure is responsible for aligning and consolidating the agency‘s various ICAM investments, monitoring these programs for alignment with organizational objectives, and ensuring broad awareness and understanding. Program governance should also establish goals, mission priorities, organization, accountability, metrics, and management controls within an agency
 
 Establishing a formal governance structure within a federal agency refers to both the creation and assignment of a specific group or entity to provide oversight and management, and development and enforcement of agency-specific policies, processes, and performance measures. The governance needs to be structured in a way that facilitates coordination between the Department and bureau/component level and promotes stakeholder buy-in. Program Governance involves identifying individuals, such as an Executive Sponsor, to champion the ICAM program and establishing coordinated governance groups at the Department and bureau/component levels, such as an ICAM Executive Steering Committee (ESC).
